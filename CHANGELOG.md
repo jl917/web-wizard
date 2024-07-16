@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jl917/web-wizard/compare/v1.0.0...v1.0.1) (2024-07-16)
+
+
+### Bug Fixes
+
+* fix unpkg mapping path ([55b4541](https://github.com/jl917/web-wizard/commit/55b454180c1a02ad19535697f6c84d226fd61797))
+
 # 1.0.0 (2024-07-16)
 
 
