@@ -1,0 +1,27 @@
+{
+  "name": "web-wizard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "watch": "jnpkg watch",
+    "build": "jnpkg build"
+  },
+  "keywords": [],
+  "author": "jl917",
+  "license": "MIT",
+  "type": "commonjs",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "jnpkg": "^2.2.0",
+    "semantic-release": "18.0.0",
+    "typescript": "^5.5.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
