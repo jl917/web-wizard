@@ -2,7 +2,7 @@
   "name": "web-wizard",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "watch": "jnpkg watch",
     "build": "jnpkg build"

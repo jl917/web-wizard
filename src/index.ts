@@ -1,3 +1,3 @@
-import cookie from "./cookie";
-
-export { cookie };
+import * as cookie from "./cookie";
+import * as vConsole from "./vConsole";
+export { cookie, vConsole };
