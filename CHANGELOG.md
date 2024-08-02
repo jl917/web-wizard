@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/jl917/web-wizard/compare/v1.1.0-next.1...v1.1.0-next.2) (2024-08-02)
+
+
+### Bug Fixes
+
+* package update ([4a4998d](https://github.com/jl917/web-wizard/commit/4a4998d2a81d0984ea37eccfb97f6b05ee27ffae))
+
 # [1.1.0-next.1](https://github.com/jl917/web-wizard/compare/v1.0.0...v1.1.0-next.1) (2024-08-02)
 
 
