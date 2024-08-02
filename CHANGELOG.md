@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/jl917/web-wizard/compare/v1.0.1...v1.1.0) (2024-08-02)
+
+
+### Bug Fixes
+
+* package update ([4a4998d](https://github.com/jl917/web-wizard/commit/4a4998d2a81d0984ea37eccfb97f6b05ee27ffae))
+
+
+### Features
+
+* add vconsole ([4379ecc](https://github.com/jl917/web-wizard/commit/4379eccb3130eeb2480f4ac5594b7f8f1dfbca79))
+
 ## [1.0.1](https://github.com/jl917/web-wizard/compare/v1.0.0...v1.0.1) (2024-07-16)
 
 
