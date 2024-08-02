@@ -23,5 +23,13 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl917/web-wizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jl917/web-wizard/issues"
+  },
+  "homepage": "https://github.com/jl917/web-wizard#readme"
 }
