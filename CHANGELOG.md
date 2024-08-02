@@ -1,3 +1,15 @@
+# [1.1.0-next.1](https://github.com/jl917/web-wizard/compare/v1.0.0...v1.1.0-next.1) (2024-08-02)
+
+
+### Bug Fixes
+
+* fix unpkg mapping path ([55b4541](https://github.com/jl917/web-wizard/commit/55b454180c1a02ad19535697f6c84d226fd61797))
+
+
+### Features
+
+* add vconsole ([4379ecc](https://github.com/jl917/web-wizard/commit/4379eccb3130eeb2480f4ac5594b7f8f1dfbca79))
+
 # 1.0.0 (2024-07-16)
 
 
