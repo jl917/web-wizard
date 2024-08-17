@@ -1,3 +1,10 @@
+# [1.1.0-next.4](https://github.com/jl917/web-wizard/compare/v1.1.0-next.3...v1.1.0-next.4) (2024-08-17)
+
+
+### Bug Fixes
+
+* binding html ([9187789](https://github.com/jl917/web-wizard/commit/91877897eb253f0ed2f9b8f031e3e9ab87bd9e22))
+
 # [1.1.0-next.3](https://github.com/jl917/web-wizard/compare/v1.1.0-next.2...v1.1.0-next.3) (2024-08-17)
 
 
