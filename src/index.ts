@@ -1,3 +1,5 @@
 import * as cookie from "./cookie";
 import * as vConsole from "./vConsole";
-export { cookie, vConsole };
+import * as html from "./htmlCheck";
+
+export { cookie, vConsole, html };
