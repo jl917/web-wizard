@@ -1,3 +1,10 @@
+# [1.1.0-next.3](https://github.com/jl917/web-wizard/compare/v1.1.0-next.2...v1.1.0-next.3) (2024-08-17)
+
+
+### Bug Fixes
+
+* htmlLint 추가 ([ccd7b12](https://github.com/jl917/web-wizard/commit/ccd7b12f3fe4b5826173310c634916a02280615e))
+
 # [1.1.0-next.2](https://github.com/jl917/web-wizard/compare/v1.1.0-next.1...v1.1.0-next.2) (2024-08-02)
 
 
