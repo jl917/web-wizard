@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/jl917/web-wizard/compare/v1.1.2...v1.1.3) (2024-08-18)
+
+
+### Bug Fixes
+
+* checkHTML 오류 수정 ([b6f032f](https://github.com/jl917/web-wizard/commit/b6f032fb0ff655d58543b5859b69f950af3baf09))
+* html error 가져오기 및 오류 수정 ([ca62892](https://github.com/jl917/web-wizard/commit/ca62892facb6f73231fe2be345719a9c4d01c4f2))
+
 ## [1.1.2](https://github.com/jl917/web-wizard/compare/v1.1.1...v1.1.2) (2024-08-17)
 
 
